@@ -1,6 +1,6 @@
 # KarenVega
-Tamaño de la Red   
-N = 20  
+Tamaño de la Red 
+     N = 20  
 Números de pasos
 t = 60000 
 Constante de Boltzmann
