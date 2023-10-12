@@ -1,8 +1,8 @@
 # KarenVega
 Tamaño de la Red 
-     N = 20
-     Números de pasos
-     t = 60000 
+N = 20
+Números de pasos
+t = 60000 
 Constante de Boltzmann
 kb=1
 Constante de integral de intercambio
