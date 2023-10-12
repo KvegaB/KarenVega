@@ -1,4 +1,4 @@
-# Modelo de Ising por medio del algoritmo metropolis
+# Modelo de Ising con algoritmo metropolis
 
 Se presenta en un notebook de jupyter en el lenguaje Python que permite simular el modelo de Ising para una red cuadrada con condiciones periodicas.
 
